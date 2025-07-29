@@ -25,5 +25,4 @@ The ElectroHub Dashboard is a **retail business intelligence solution** built in
 
 ## Key Features  
 -  **Sales Analysis** – Region, category, and time-based breakdowns   
--  **KPI Tracking** – Interactive cards and drill-downs  
-  
+-  **KPI Tracking** – Interactive cards and drill downs
