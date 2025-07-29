@@ -5,14 +5,14 @@ The ElectroHub Dashboard is a **retail business intelligence solution** built in
 
 ---
 
-## 🎯 Objectives  
+## Objectives  
 - Build an end-to-end Power BI dashboard project  
 - Derive insights from raw Excel data using DAX & Power Query  
 - Showcase BI storytelling for retail performance analytics  
 
 ---
 
-## 🧰 Tools & Technologies  
+## Tools & Technologies  
 
 | Category     | Tools Used         |
 |--------------|--------------------|
@@ -23,7 +23,7 @@ The ElectroHub Dashboard is a **retail business intelligence solution** built in
 
 ---
 
-## 📊 Key Features  
+## Key Features  
 -  **Sales Analysis** – Region, category, and time-based breakdowns   
 -  **KPI Tracking** – Interactive cards and drill-downs  
   
